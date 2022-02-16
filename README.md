@@ -1,4 +1,4 @@
-# Karaoke
+# CrowdChicken
 
 1. Seperate_Vocal.ipynb로 vocal mp3만 분리
 -> ffmpeg 설치해야 함
